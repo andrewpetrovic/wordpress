@@ -1,12 +1,12 @@
 <?php
 /**
- * The default template for displaying content
+ * The excerpt template for displaying content
  *
- * Used for both single and index/archive/search.
+ * Only for  index.
  *
  * @package WordPress
- * @subpackage Twenty_Fifteen
- * @since Twenty Fifteen 1.0
+ * @subpackage FineBlog
+ * @since FineBlog 1.0
  */
 ?>
 
